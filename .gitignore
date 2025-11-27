@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Conda environments
+env/
+.conda/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
