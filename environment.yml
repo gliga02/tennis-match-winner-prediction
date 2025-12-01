@@ -8,3 +8,6 @@ dependencies:
   - scikit-learn
   - jupyter
   - matplotlib
+  - pip:
+      - gradio==4.44.0
+      - huggingface_hub==0.24.6
