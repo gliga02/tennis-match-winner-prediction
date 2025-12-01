@@ -14,3 +14,15 @@ Thumbs.db
 
 # Saved models
 models/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Raw datasets
+data/atp_matches_*.csv
+data/atp_players.csv
+
+!data/player_surface_stats.csv
